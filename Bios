@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<Head>
+<meta charset="utf-8">
+<style>
+body{
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+}
+h1{
+  Text-align: center;
+}
+aside{
+  float: right;
+  width: 300px;
+}
+</style>
+<title>Team Bios</title>
+</head>
+
+<body>
+	<aside>
+  
+  </aside>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+  <section>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+     </ul>
+  </section>
+</body>
+
+</html>
